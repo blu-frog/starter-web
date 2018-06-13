@@ -4,4 +4,6 @@ This repository is for showing how Git and GitHub work using a simple website's 
 
 ## Purpose
 
-Sample website with some files for use in learning how to get in trouble with Git.
+Sample website with some files for use in learning how to get in trouble with Git and GitHub.
+
+### ***For Training Purposes***
