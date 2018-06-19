@@ -8,6 +8,8 @@ Sample website with some files for use in learning how to get in trouble with Gi
 
 ## ***For Training Purposes***
 
+Adding a line for rebasing example.
+
 ## How to Contribute
 
 Please fork this repository and then issue Pull Requests for review.
