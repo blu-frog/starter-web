@@ -8,7 +8,7 @@ Sample website with some files for use in learning how to get in trouble with Gi
 
 ## ***For Training Purposes***
 
-Adding a line for rebasing example.
+Adding a line for rebasing example, then adding more text within 'myfeature' branch too.
 
 ## How to Contribute
 
