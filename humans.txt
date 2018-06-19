@@ -8,7 +8,9 @@
 
 # THANKS
 
-    <name>
+    The Creator
+	The creators of this simple website
+	Jason Taylor for teaching us Git & Github
 
 # TECHNOLOGY COLOPHON
 
