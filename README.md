@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work using a simple website's files.
+Adding in an 'emergency fix' after we done stashing.
 
 ## Purpose
 
