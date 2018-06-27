@@ -11,6 +11,7 @@
     The Creator
 	The creators of this simple website
 	Jason Taylor for teaching us Git & Github
+		-Leave him a great review if you like his course!
 
 # TECHNOLOGY COLOPHON
 
