@@ -16,4 +16,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright 
 
-2018 N00b Consulting
+2018 N00b Consulting. All Rights Reserved.
